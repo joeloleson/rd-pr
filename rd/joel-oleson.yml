@@ -2,19 +2,33 @@
 uid: rd.joel-oleson
 name: Joel Oleson 
 metadata:
-  title: Joel Oleson - Microsoft Regional Director, [add professional title]
+  title: Joel Oleson - Microsoft Regional Director, Sr IT Manager Blizzard Entertainment
   description: Microsoft Regional Director
 remarks: |
   ## Bio
-  [Insert bio content here by following the guidelines provided by the RD Program team]
-tagline: Tagline1 / Tagline2 / Tagline3
+  Joel played a pivotal role in the success of Microsoft SharePoint as the first full time dedicated employee hired by Microsoft IT
+  to deploy and operate it internally. He was the architect for the first beta of SharePoint Online (BPOS-D) prior to popular Office 365.
+  Joel was Senior Technical Product Manager for SharePoint in 2007 managing the IT audience. Since his time at Microsoft 10 years ago
+  he's focused on evangelizing intranet and collaboration solutions while growing and connecting the global technology community 
+  traveling to diverse places sharing technology, inspiring and transforming lives in his quest to connect and build communities
+  around the world.  He has a handful of countries left, but that won't slow him down.  He is frequently recognized in the industry as top
+  blogger and influencer in IT circles especially around Intranets, SharePoint & Office 365.  
+  
+  
+  When not traveling you can find him in Southern California walking along the pier in Oceanside with his wife or one of his three boys or 
+  enabling world class gaming and Esports at Blizzard Entertainment.
+  
+  Travel Blog: http://travelingepic.com
+  Technical Blog: http://collabshow.com
+  
+tagline: Enterprise Collaboration / Blockchain / Mixed Reality
 image:
   alt: "Joel Oleson"
   src: media/profiles/joel-oleson.jpg
-facebook: https://facebook.com/yourprofile
-twitter: https://twitter.com/yourprofile
-linkedin: https://linkedin.com/in/yourprofile
+facebook: https://facebook.com/joleson
+twitter: https://twitter.com/joeloleson
+linkedin: https://linkedin.com/in/joeloleson
 location:
-  display: [City], [State, if applicable], [Country]
-  lat: [decimal latitude]
-  long: [decimal longitude]
+  display: Oceanside, CA, USA
+  lat: 33.1959
+  long: -117.3795
